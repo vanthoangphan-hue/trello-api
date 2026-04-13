@@ -1,3 +1,4 @@
+
 /**
  * Updated by trungquandev.com's author on August 17 2023
  * YouTube: https://youtube.com/@trungquandev
@@ -31,3 +32,4 @@ app.listen(port, hostname, () => {
   // eslint-disable-next-line no-console
   console.log(`Hello Trung Quan Dev, I am running at http://${ hostname }:${ port }/`)
 })
+
